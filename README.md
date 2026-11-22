@@ -2,6 +2,11 @@
 # Hi, I'm Ashraf 👋<br><br>B.Tech CSE Final Student<br><br>I'm a final-year Computer Science Engineering student passionate about software development, problem-solving, and building real-world applications.<br><br> 🎓 Pursuing B.Tech in Computer Science & Engineering.<br> 💻 Learning MERN Stack Development.<br> 🧠 Practicing Data Structures & Algorithms using Java.<br> 🚀 Interested in building scalable and user-friendly applications.<br> 🎯 Looking for opportunities to start my career as a Software Developer.<br><br>⭐ *Always learning, always building, always improving.*
 
 
+## 👨‍💻 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AshrafAlam_Tech/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ashrafalam?tab=activity)
+
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-a-409758298/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tech_ashraf)
